@@ -3,6 +3,9 @@
 Dashboard interaktif berbasis **Streamlit** untuk mengeksplorasi dan memprediksi penjualan video game global.  
 Proyek ini menggunakan dataset `vgsales` dan model machine learning dengan algoritma Random Forest yang sudah dilatih (`video_game_sales.pkl`) untuk memprediksi **Global_Sales** berdasarkan penjualan per region.
 
+---
+## Tableau Dashboard
+
 ![Dashboard Preview](assets/vgsales_dashboard.png)
 
 ---

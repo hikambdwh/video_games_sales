@@ -25,3 +25,5 @@ Proyek ini menggunakan dataset `vgsales` dan model machine learning dengan algor
   - Input: `NA_Sales`, `EU_Sales`, `JP_Sales`, `Other_Sales`
   - Output: prediksi `Global_Sales` (dalam juta kopi)
 - Tampilan gambar referensi dashboard Tableau: `assets/vgsales_dashboard.png`
+
+**Website link**: https://videogamessales-dpqtkoefqynmnjtlws24c4.streamlit.app/
